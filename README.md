@@ -20,6 +20,7 @@
 ### DJI Products
 
 #### Manifold
+- [wqf233333/DJI-SDK-SKILL](https://github.com/wqf233333/DJI-SDK-SKILL) - FAQ for Onboard SDK , Guidance SDK, Manifold
 
 #### Remote Controller
 - [DJI DT7 Remote Controller Driver for Windows](https://cdn-hz.robomaster.com/tem/3e8726fd06d4a1517404291621742928.7z)
