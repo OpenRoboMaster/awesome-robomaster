@@ -34,4 +34,4 @@
 # 开源项目
 
 ## 能量机关
- - [gezp/RoboMasterMarkSim](https://github.com/gezp/RoboMasterMarkSim) - 电科成开源的能量机关模拟器(麦克风判定)
+ - [gezp/RoboMasterMarkSim](https://github.com/gezp/RoboMasterMarkSim) - 电科成开源的能量机关模拟器(麦克风判定，无 LED 数码管和侧边进度指示灯模拟)

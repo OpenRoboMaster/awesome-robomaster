@@ -33,4 +33,4 @@
 # Open Source Tools
 
 ## Rune
- - [gezp/RoboMasterMarkSim](https://github.com/gezp/RoboMasterMarkSim) - A microphone determined rune simulator by UESTC
+ - [gezp/RoboMasterMarkSim](https://github.com/gezp/RoboMasterMarkSim) - A microphone determined rune simulator by UESTC without top LED numbers or side progess indicators
