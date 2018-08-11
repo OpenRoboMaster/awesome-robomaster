@@ -1,8 +1,8 @@
+[中文(Chinese)](/README-CN.md)
+
 ## Awesome RoboMaster
 
 > A curated list of awesome things related to RoboMaster, DJI, and robotics
-
-[中文(Chinese)](/README-CN.md)
 
 - [Official Resources](#official-resources)
   - [RoboMaster Products](#robomaster-products)
