@@ -53,7 +53,7 @@
 ## 大疆创新产品
 
 ### 妙算Manifold
-- [wqf233333/DJI-SDK-SKILL](https://github.com/wqf233333/DJI-SDK-SKILL) - FAQ for Onboard SDK , Guidance SDK, Manifold
+- [原厂固件](https://dl.djicdn.com/downloads/manifold/manifold_image_v1.0.tar.gz)
 
 ### 遥控器
 - [DJI DT7 Remote Controller Driver for Windows](https://cdn-hz.robomaster.com/tem/3e8726fd06d4a1517404291621742928.7z)
